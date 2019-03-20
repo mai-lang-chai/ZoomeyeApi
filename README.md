@@ -1,5 +1,6 @@
 # ZoomeyeApi 批量导出IP和端口  python2.7
 pip install requests，getopt
+
 -u 你的Zoomeye账号
 -p 你的密码
 -q 搜索关键字
