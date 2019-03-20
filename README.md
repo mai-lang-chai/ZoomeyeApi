@@ -2,8 +2,11 @@
 pip install requests，getopt
 
 -u 你的Zoomeye账号
+
 -p 你的密码
+
 -q 搜索关键字
+
 -g 显示多少页
 
 
