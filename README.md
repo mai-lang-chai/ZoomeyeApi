@@ -14,4 +14,4 @@ for example:cve2018-9995
 
 python ZoomeyeApi.py -u "123456@gmail.com" -p "123456" -g "/login.rsp" -g "3"  
 
-# 普通账户只可以查看400条
+普通账户只可以查看400条
